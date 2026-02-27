@@ -2,6 +2,8 @@ Perform Boxing Studio Mobile App
 
 	Train hard. Stay organized. All in one app.
 
+Repository Note -  Code is not publicly accessible, but this README documents the full project scope, architecture, and development process.
+
 The Perform Boxing Studio App is a production-level mobile application built to digitize and enhance the member experience at Perform Boxing Studio, a premier boxing gym in Abu Dhabi, UAE. The app streamlines membership management, session scheduling, payments, and community engagement for both members and staff.
 
 This project was conceptualized in December 2024 and officially launched on the App Store and Google Play after 7 months of full-cycle development.
